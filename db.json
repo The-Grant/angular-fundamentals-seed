@@ -1,1 +1,31 @@
-{}
+{
+  "passengers": [
+    {
+      "fullname": "Ian Grant 2",
+      "id": 1,
+      "checkedIn": false,
+      "baggage": "hand-only"
+    },
+    {
+      "id": 2,
+      "fullname": "Minoushe",
+      "checkedIn": true,
+      "checkedInDate": 1546204778117,
+      "baggage": ""
+    },
+    {
+      "id": 3,
+      "fullname": "Neil",
+      "checkedIn": false,
+      "checkedInDate": null,
+      "baggage": ""
+    },
+    {
+      "id": 4,
+      "fullname": "Tracey",
+      "checkedIn": true,
+      "checkedInDate": 1546204778117,
+      "baggage": ""
+    }
+  ]
+}
